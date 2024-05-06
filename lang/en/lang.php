@@ -12,7 +12,7 @@ return [
             'label' => 'Redirects',
             'tab' => 'Redirects',
         ],
-        'access_redirect_stats' => [
+        'access_redirect_statistics' => [
             'label' => 'Redirect Statistics',
         ],
     ],

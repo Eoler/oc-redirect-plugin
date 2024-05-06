@@ -18,7 +18,7 @@ use Vdlp\Redirect\Classes\StatisticsHelper;
  */
 final class Statistics extends Controller
 {
-    public $requiredPermissions = ['vdlp.redirect.access_redirect_stats'];
+    public $requiredPermissions = ['vdlp.redirect.access_redirect_statistics'];
     private StatisticsHelper $helper;
 
     public function __construct()
